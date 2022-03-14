@@ -8,8 +8,4 @@ int main()
 {
     cout << "Hello World!\n";
     cout << "This is programming cours !\n";
-    cout << "Class is gonna crasher sang !\n";
-    cout << "FDP !\n\n";
-    cout << "JE MAPPELLE MICKEY OHOHOHOHOHOHO\n";
-
 }

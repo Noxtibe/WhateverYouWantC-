@@ -1,2 +1,4 @@
 ﻿  Test_C++.cpp
+D:\Game2\BARRAU Benoit\Progs\Test_C++\Test_C++.cpp(59,19): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+D:\Game2\BARRAU Benoit\Progs\Test_C++\Test_C++.cpp(91,37): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
   Test_C++.vcxproj -> D:\Game2\BARRAU Benoit\Progs\Test_C++\Debug\Test_C++.exe
